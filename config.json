@@ -1,0 +1,4 @@
+{
+  "secret": "Be-Practical2020",
+  "db": "mongodb+srv://pruthvi:Seetha143@cluster0-yn2kx.mongodb.net/ReduxCRUD?authSource=admin&replicaSet=Cluster0-shard-0&w=majority&readPreference=primary&appname=MongoDB%20Compass&retryWrites=true&ssl=true"
+}
